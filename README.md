@@ -1,3 +1,2 @@
-# hacka
-Incio Hackathon
-Este branch de prueba para iniciar un Repositorio de Hackathon
+# Linux
+Espacio para almacenar archivos de configuración de linux
